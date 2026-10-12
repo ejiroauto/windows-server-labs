@@ -16,8 +16,6 @@ A visual, documentation only portfolio of Windows Server administration tasks co
 
 ## Lab environment
 
-Complete these details if you know them:
-
 - **Windows Server version:** 2019 
 - **Domain name:** LAB.LOCAL
 - **Server hostname:** DC01 
@@ -143,7 +141,7 @@ Complete these details if you know them:
 .
 ├── README.md
 ├── evidence/                  # Original lab screenshots
-└── troubleshooting/            # Space for notes on issues and resolutions
+
 ```
 
 
