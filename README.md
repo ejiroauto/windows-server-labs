@@ -143,8 +143,6 @@ Complete these details if you know them:
 .
 ├── README.md
 ├── evidence/                  # Original lab screenshots
-├── labs/                      # Written guides for each lab
-├── architecture/              # Space for a network or directory diagram
 └── troubleshooting/            # Space for notes on issues and resolutions
 ```
 
